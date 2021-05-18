@@ -1,0 +1,187 @@
+<resources>
+    <string name="app_name">Co-operative University of Kenya</string>
+    <string name="button">Website</string>
+    <string name="todo">TODO</string>
+    <string name="logo">img_01</string>
+    <string name="title_activity_main2">About the C.U.K</string>
+    <string name="textview_1"><h3 id="about-the-c.u.k."><strong>About the C.U.K.</strong></h3>
+
+    <br /><li><h5 id="mission"><strong>Mission</strong></h5>
+    <p><em>To provide Education,Training , Research and Consultancy in order to produce leaders in the field of Cooperative development,Community DevelopmentRural transformation,Business ,Applied sciences, information and communication technology for development.</em></p></li>
+    <br /><li><h5 id="vision"><strong>Vision</strong></h5>
+    <p><em>A leading university in Cooperative Training, Education, Research and Innovation</em></p></li>
+    <br /><li><h5 id="motto"><strong>Motto</strong></h5>
+    <p><em>Quality cooperative training</em></p></li>
+    <br /><li><h5 id="objective"><strong>Objective</strong></h5>
+    <p><em>To develop a globally competitive Cooperative university that is excellent in education,Training, Research,Innovation and Outreach</em></p>
+    <ul>
+    <br /><li><strong>Core Values</strong>
+<ul>
+    <li>Cooperation: Teamwork through synergy to achieve objectives.</li><br />
+    <li>Equity: Fairness and justice to all the stakeholders.</li><br />
+    <li>integrity: Upholding strong ethical and moral principles.</li><br />
+    <li>Professionalism: Maintaining High standards in service delivery.</li><br />
+        <li>Accountability: Demonstrate responsibility for decisions made and actions taken.</li><br />
+        <li>Creativity and innovation: Encourage generation and nurturing</li><br />
+    </ul></li>
+    </ul></li>
+
+</string>
+    <string name="logo1">img1</string>
+    <string name="button_2">next</string>
+    <string name="textview1">
+         <h4 id="contents">Prospectus Contents</h4>
+           <ul>
+               <em><li>About the C.U.K</li></em><br />
+               <em><li>Study at the C.U.K</li></em><br />
+               <em><li>The C.U.K management</li></em><br />
+               <em><li>The C.U.K Student Council</li></em><br />
+               <em><li>Resources and Support</li></em><br />
+           </ul>
+    </string>
+    <string name="textview">
+        "\n"<b>Mission</b>:"\n"
+     To provide Education,Training , Research and Consultancy in order to produce leaders in the field of Cooperative development,Community DevelopmentRural transformation,Business ,Applied sciences, information and communication technology for development.
+         "\n"
+         "\n"<b>Vision</b>:"\n"
+        A leading university in Cooperative Training, Education, Research and Innovation.
+         "\n"
+        "\n"<b>Motto</b>:"\n"
+         Quality cooperative training
+      "\n"
+      "\n"<b>Objective</b>:"\n"
+        To develop a globally competitive Cooperative university that is excellent in education,Training, Research,Innovation and Outreach.
+    </string>
+
+    <string name="Button_0">Go Back</string>
+    <string name="bgPic">bg01</string>
+    <string name="Background">bg</string>
+    <string name="Study">
+        <h3><em>Study at the C.U.K</em></h3>"\n"
+
+        <li>School of business"\n"
+	          Department of Entrepreneurship"\n"
+              Department of Accounting &amp; Finance"\n"
+        </li>
+        <li>School of computing and mathematics</li>"\n"
+        <li>School of cooperative and community development"\n"
+		        Department of Co-operatives &amp; Agribusiness Management"\n"
+		        Department of Community Development &amp; Environmental Management"\n"
+        </li>
+        <li>school of Postgraduate studies"\n"</li>
+
+        "\n" "\n"<h5 id="programmes-offered"><em>Programmes offered</em></h5>"\n"
+
+        <li>
+        <p><strong><a href="https://www.cuk.ac.ke/sbe/%20">School of business</a></strong>"\n"</p>
+
+        Department of Entrepreneurship"\n"
+        <ul>
+            <li>Bachelor of Science in Entrepreneurship</li>"\n"
+            <li>Bachelor of Purchasing and Supplies Management</li>"\n"
+            <li>Bachelor of Human Resource Management</li>"\n"
+            <li>Bachelor of Tourism Management</li>"\n"
+        </ul>
+        "\n"
+    Department of Accounting &amp; Finance"\n"
+      <ul>
+     On Offer"\n"
+        <ul>
+            <li>Bachelor of Commerce</li>"\n"
+            <li>Bachelor of Science in Finance</li>"\n"
+            <li>Bachelor of Science in Accounting</li>"\n"
+        </ul>
+
+     proposed"\n"
+        <ul>
+            <li>Bachelor of Science in Banking and Finance</li>"\n"
+            <li>Bachelor of Science in Economics and Finance</li>"\n"
+            <li>Bachelor of Science in Insurance and Risk Management</li>"\n"
+        </ul>
+      </ul>
+    </li>"\n"
+
+
+        <strong><a href="https://www.cuk.ac.ke/scm/">School of computing and mathematics</a></strong>"\n"
+    <ul>
+        Programmes"\n"
+        <ul>
+            <li>Bachelor in Business and Information Technology</li>"\n"
+            <li>Bachelor of Science in Computer Science</li>"\n"
+            <li>Bachelor of Science in Information Technology</li>"\n"
+            <li>Diploma in Business and Information Technology</li>"\n"
+            <li>Diploma in Information Technology</li>"\n"
+        </ul>
+    </ul>
+"\n"<strong><a href="https://www.cuk.ac.ke/sccd/">School of cooperative and community development</a></strong>
+<ul>"\n"
+Department of Co-operatives &amp; Agribusiness Management"\n"
+    <ul>
+        <li>Bachelor of Cooperative Management</li>"\n"
+        <li>Bachelor of Cooperative Business</li>"\n"
+        <li>Bachelor of Science in Agribusiness Management</li>"\n"
+        <li>Diploma in Cooperative Management</li>"\n"
+        <li>Diploma in AgriBusiness Management</li>"\n"
+        <li>Diploma in Cooperative Management</li>"\n"
+        <li>Certificate in Cooperative management</li>"\n"
+        <li>Certificate in Cooperative Administration</li>"\n"
+    </ul>"\n"
+Department of Community Development &amp; Environmental Management"\n"
+    <ul>
+        <li>Diploma in community development &amp; social works</li>"\n"
+        <li>Bachelor of Cooperative &amp; Community Development</li>"\n"
+        <li>Bachelor of Science in Risk Management &amp; Sustainable Development</li>"\n"
+        <li>Bachelor of Community Development</li>"\n"
+    </ul>"\n"
+</ul>"\n"
+<p><strong><a href="https://www.cuk.ac.ke/bps/">school of Postgraduate studies</a></strong></p>"\n"
+        "\n"
+        <em>On Offer</em>"\n"
+        <ul>
+            <li>Masters of Business Administration</li>"\n"
+            <li>Masters of Cooperative management</li>"\n"
+            <li>Masters of Cooperative Development</li>"\n"
+            <li>Masters of Community Development</li>"\n"
+        </ul>
+        "\n"Upcoming programmes"\n"
+        <ul>
+            <li>P.H.D. in cooperative business</li>"\n"
+            <li>P.H.D. in Business Administration</li>"\n"
+            <li>Masters in Disaster Management</li>"\n"
+            <li>Masters of Science in Finance</li>"\n"
+        </ul>
+    </string>
+    <string name="bg2">bg_2</string>
+    <string name="button_01">Academics</string>
+    <string name="textview2">
+        <ul>"\n"
+        <strong>Core Values</strong>"\n"
+        <ul>
+            <li>Cooperation: Teamwork through synergy to achieve objectives.</li>"\n"
+            <li>Equity: Fairness and justice to all the stakeholders.</li>"\n"
+            <li>integrity: Upholding strong ethical and moral principles.</li>"\n"
+            <li>Professionalism: Maintaining High standards in service delivery.</li>"\n"
+            <li>Accountability: Demonstrate responsibilty for decisions made and actions taken.</li>"\n"
+            <li>Creativity and innovation: Encourage generation and nurturing</li>"\n"
+        </ul>
+
+        </ul>
+
+    </string>
+    <string name="button_3">Management</string>
+    <string name="img_1">gov</string>
+    <string name="textview_4">The following are select few assorted organocharts documenting the university organisation in different sectors</string>
+    <string name="img00">mngt_img1</string>
+    <string name="img01">mngt_img00</string>
+    <string name="img02">mngmt_img02</string>
+    <string name="img03">mngmt_img3</string>
+    <string name="img04">mngmt_img4</string>
+    <string name="img05">mngmt_img5</string>
+    <string name="img08">mngmt_img8</string>
+    <string name="Backg">textBg</string>
+    <string name="scroll_0">img0</string>
+    <string name="scroll_1">img1</string>
+    <string name="scroll_2">img2</string>
+    <string name="scroll_3">img3</string>
+
+</resources>
