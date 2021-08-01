@@ -53,7 +53,6 @@
         To develop a globally competitive Cooperative university that is excellent in education,Training, Research,Innovation and Outreach.
     </string>
 
-    <string name="Button_0">Go Back</string>
     <string name="bgPic">bg01</string>
     <string name="Background">bg</string>
     <string name="Study">
@@ -152,7 +151,7 @@ Department of Community Development &amp; Environmental Management"\n"
         </ul>
     </string>
     <string name="bg2">bg_2</string>
-    <string name="button_01">Academics</string>
+    <string name="button_01">Academic</string>
     <string name="textview2">
         <ul>"\n"
         <strong>Core Values</strong>"\n"
